@@ -1,0 +1,220 @@
+BoonMindX Hybrid License v1.0
+
+(Public Documentation + Proprietary Core Operators)
+Copyright © 2025 Carl Boon (BoonMind Project)
+
+1. License Overview
+
+This repository contains public documentation, architectural descriptions, and high-level conceptual frameworks related to:
+
+BoonMindX
+
+ZeroCode OS
+
+VR-9
+
+BUE Framework
+
+Observer-Coupled Computational Reality (OCCR)
+
+All core mathematical operators, update rules, transforms, compilers, kernels, and internal state mappings are explicitly proprietary and are not included in this repository.
+
+This license governs:
+
+✔ Public documentation
+✔ Public diagrams and explanations
+✔ Public research notes
+✔ High-level conceptual architecture
+✔ Public-access text, images, and non-functional examples
+
+This license does not grant access to any working implementation or proprietary system components.
+
+2. Grant of Permission (Public Materials Only)
+
+You are permitted to:
+
+View, read, and share the public documentation in this repository
+
+Use the public materials for academic discussion, research review, and technical analysis
+
+Cite this work in papers, articles, or public communication
+
+Fork the repository for documentation purposes
+
+This permission is granted royalty-free, worldwide, and non-exclusive, subject to the restrictions in Sections 3–7.
+
+3. Restrictions
+
+You may NOT:
+
+3.1 Reverse-Engineer or Reconstruct
+
+Attempt to derive, infer, approximate, reconstruct, or reverse-engineer:
+
+Recursion update equations
+
+Observer coupling transforms
+
+THRUM algorithms
+
+ZeroCode AST compiler
+
+VR-9 geospatial operators
+
+Internal kernels, transforms, or weighting functions
+
+Any component not explicitly published in this repository
+
+This includes attempts via:
+
+simulation
+
+emulation
+
+model-fitting
+
+behavioral cloning
+
+system probing
+
+statistical approximation
+
+dynamical inference
+
+The architecture is explicitly non-injective and path-dependent, and any reconstruction attempts are prohibited.
+
+3.2 Create Derivative Implementations
+
+You may NOT build:
+
+competing systems
+
+derivative frameworks
+
+parallel recursion engines
+
+observer-coupled computational systems
+
+visualizers based on THRUM-like transforms
+
+…based on the concepts, descriptions, diagrams, or public explanations provided here.
+
+Derivative systems require a commercial or research license.
+
+3.3 Commercial Use Prohibited
+
+The public documentation may not be used for any commercial purpose without written permission from the BoonMind Project.
+
+Commercial use includes but is not limited to:
+
+product development
+
+paid consulting
+
+commercial research
+
+VC-backed prototypes
+
+AI/ML tooling
+
+VR/XR implementations
+
+internal enterprise deployment
+
+4. Proprietary Components (Not Licensed)
+
+The following components are strictly proprietary and not included in this license:
+
+Recursion update equations (BUE, RHC, dual-strand operators)
+
+THRUM field operators and negative recursion operators
+
+ZeroCode compiler, AST transforms, or runtime engine
+
+VR-9 geometric kernels and spatial recursion transforms
+
+Biometric weighting functions, observer encoding, O(t) transforms
+
+Pattern memory compression or tension-decay mechanisms
+
+Stability guards, anti-divergence logic, or resumable state operators
+
+Use or reproduction of these components is strictly prohibited without NDA access.
+
+5. No Warranty
+
+This documentation is provided:
+
+“AS IS,” without warranty of any kind, express or implied.
+
+The BoonMind Project disclaims all liability for:
+
+accuracy
+
+completeness
+
+experimental reproducibility
+
+errors
+
+omissions
+
+damages arising from interpretation or misuse
+
+6. NDA Access for Core Operators
+
+Access to the BoonMindX / ZeroCode / VR-9 internal systems is available only via:
+
+executed NDA
+
+research partnership
+
+commercial license
+
+written authorization
+
+Contact: codedawakening@proton.me
+
+7. Termination
+
+This license terminates automatically if you:
+
+violate any restriction in Sections 3 or 4
+
+attempt to reconstruct proprietary components
+
+use public documentation to develop competitive systems
+
+engage in commercial use without agreement
+
+Upon termination, all rights granted by this license are revoked immediately.
+
+8. Governing Law
+
+This license is governed by the laws of:
+
+England & Wales (internationally standard, used by OpenAI, Anthropic, DeepMind-aligned orgs)
+
+9. Attribution Requirement
+
+If you redistribute any public portion of this documentation, you must include:
+
+© 2025 Carl Boon — BoonMind Project  
+Used under the BoonMindX Hybrid License v1.0  
+Public documentation only. Proprietary components excluded.  
+
+10. Summary (Human-Readable)
+
+You can read, share, and cite the docs.
+
+You cannot rebuild the system.
+
+You cannot approximate or reconstruct the protected operators.
+
+You cannot use this for commercial purposes.
+
+You cannot build derivative recursion or observer-coupled systems.
+
+The real engine remains proprietary, non-injective, and NDA-only.
+
+Violations terminate rights immediately.
